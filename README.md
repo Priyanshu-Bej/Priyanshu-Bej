@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Bej</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
 
-- 🌱 Mobile development enthusiast specializing in mastering Flutter, Dart, and Kotlin. Committed to delivering seamless user experiences and pushing the boundaries of innovation.**
+- 🌱 **Mobile development enthusiast specializing in mastering Flutter, Dart, and Kotlin. Committed to delivering seamless user experiences and pushing the boundaries of innovation.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshu-Bej](https://github.com/Priyanshu-Bej)
 
