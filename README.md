@@ -1,18 +1,113 @@
-# 💫 Dev Debug:
-### <br>// Priyanshu Bej: Senior Mobile Developer 🧑‍💻🚀<br><br>class PriyanshuBej {<br><br> final String techStack = "Flutter, Dart, Kotlin — my toolkit for creating impactful apps.";<br> final String philosophy = "Code. Refine. Redefine. Always pushing boundaries.";<br><br>  PriyanshuBej() {<br>    print("🌟 Crafting seamless user experiences with a dash of Material Design.");<br>    print("⚡️ Mastering state management with Bloc and Provider.");<br>    print("🔗 Connecting the dots with RESTful APIs.");<br>    print("🔥 Sprinkling backend magic with Firebase.");<br>  }<br><br>  void contact() {<br>    print("📫 Reach me: priyanshubej2001@gmail.com");<br>  }<br><br>  void viewProjects() {<br>    print("🗂️ Explore my work: https://github.com/Priyanshu-Bej");<br>  }<br><br>  void viewPortfolio() {<br>    print("🌐 View my portfolio: https://www.priyanshubej.com/");<br>  }<br><br>  void viewResume() {<br>    print("📄 Know my journey: https://github.com/Priyanshu-Bej/Priyanshu-Bej-Resume.git");<br>  }<br>}<br><br>void main() {<br>  PriyanshuBej dev = PriyanshuBej();<br>  dev.viewProjects();<br>  dev.viewPortfolio();<br>  dev.viewResume();<br>  dev.contact();<br>}<br><br>// 🚀 Got an app idea? Let's bring it to life!<br>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=180&section=header&text=Priyanshu%20Bej&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Senior%20Mobile%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Bengaluru&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+mobile+apps+that+ship.;Flutter+%7C+Dart+%7C+Kotlin;From+idea+to+App+Store+%E2%80%94+end+to+end.;Currently+exploring+agentic+AI+on+mobile." alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshu_bej) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshubej) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Priyanshu3000) 
+<p align="center">
+  <a href="https://www.priyanshubej.com/"><img src="https://img.shields.io/badge/Portfolio-priyanshubej.com-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/priyanshubej"><img src="https://img.shields.io/badge/LinkedIn-priyanshubej-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Priyanshu3000"><img src="https://img.shields.io/badge/X-@Priyanshu3000-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/priyanshu_bej"><img src="https://img.shields.io/badge/Instagram-priyanshu__bej-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:priyanshubej2001@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu-Bej&style=flat-square&color=0EA5E9&label=Profile+views" />
+  <img src="https://img.shields.io/github/followers/Priyanshu-Bej?style=flat-square&color=0EA5E9&label=Followers" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-  ## 💰 Contribute
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/PriyanshuBej) 
+## `git log --oneline` — about me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+a3f9c1e  feat: Senior Mobile Developer @ IRISS Inc. — Flutter apps for industrial IoT & asset health
+7b2d4e8  feat: shipped cross-platform apps end to end — architecture → UI → release → store
+c91e0a2  feat: Executive PG Certificate in Generative & Agentic AI — IIT Kharagpur
+5d8f3b7  chore: based in Bengaluru, India 🇮🇳
+e04a6c9  refactor: obsessed with clean state management, smooth animations and 60fps
+f7c2d15  docs: open to collaborating on Flutter, mobile + AI, and developer tooling
+```
+
+---
+
+## 🧰 Toolkit
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,figma&theme=dark" />
+
+**Backend & Cloud**
+
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,mongodb,sqlite,gcp&theme=dark" />
+
+</td>
+<td valign="top" width="50%">
+
+**Tooling & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode&theme=dark" />
+
+**Also comfortable with**
+
+`Bloc` · `Provider` · `Riverpod` · `REST APIs` · `NFC` · `BLE` · `Material 3` · `CI/CD` · `LLM APIs`
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🚧 What I'm building
+
+| | Project | Stack | Status |
+|---|---|---|---|
+| 🏭 | **Industrial IoT mobile apps** — sensor onboarding, NFC pairing, live asset health, work orders | Flutter · Kotlin · REST | 🟢 Shipping |
+| 🔐 | **Locky** — NFC-based encrypted notes & reminders | Flutter · NFC · local crypto | 🟡 Side project |
+| 🤖 | **Agentic AI on mobile** — assistants embedded inside Flutter apps | Flutter · LLM APIs | 🔵 Exploring |
+
+> Pinned repos below are the best place to look at code. Full story in my [résumé](https://github.com/Priyanshu-Bej/Priyanshu-Bej-Resume.git).
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Bej&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Bej&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=0EA5E9&text_color=E2E8F0&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Priyanshu-Bej&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Bej&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=E2E8F0&line=0EA5E9&point=ffffff&area=true" width="100%" />
+</p>
+
+---
+
+## 💡 How I work
+
+- **Ship, then polish.** A working build in users' hands beats a perfect one in a branch.
+- **Architecture is a UX decision.** Clean state management is what makes an app *feel* fast.
+- **Mobile + AI is the next frontier.** Small, on-device-first assistants that actually help.
+
+---
+
+<p align="center">
+  <b>Got an app idea? Let's bring it to life.</b><br/>
+  <a href="mailto:priyanshubej2001@gmail.com">priyanshubej2001@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.priyanshubej.com/">priyanshubej.com</a>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/PriyanshuBej"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-FFDD00?style=flat-square&logoColor=black" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%" />
